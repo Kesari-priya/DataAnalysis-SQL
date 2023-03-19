@@ -8,7 +8,8 @@ In this SQL Project for Data Analysis, We will learn to efficiently leverage var
 The project’s Agenda involves Analyzing the data using SQL on the SQL Server database.Tables are created in the database followed by data insertion into tables 
 and exploration, i.e., noticing relationships between tables, walking through the columns, and seeing comments. 
 
-We keeps track of the following data fields:
+**We keeps track of the following data fields:**
+
 Records are displayed in an ordered manner, handling NULL values, and selecting records based on patterns like Wildcard, Operators, etc. Then working on Data Manipulation commands(DML) for Data Analysis. 
 Understanding different types of Joins(Inner join, Left outer join, Right outer join, Full outer join, Self join), different types of Operators(Minus, Union, Union all, Intersect).
 data analysis using Sub-query, Group-by clause and Exists clause. It also consists of using inline view and aggregate functions(Min, Max, Count, Avg) to perform better analysis on data.
