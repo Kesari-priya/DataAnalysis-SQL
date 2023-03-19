@@ -5,10 +5,11 @@ In this SQL Project for Data Analysis, We will learn to efficiently leverage var
 
 𝗪𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗲 𝗔𝗴𝗲𝗻𝗱𝗮 𝗼𝗳 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁?
 
-The project’s Agenda involves Analyzing the data using SQL on the Oracle Database Software.Tables are created in the database followed by data insertion into tables 
-and exploration, i.e., noticing relationships between tables, walking through the columns, and seeing comments. And perform the following activties--
+The project’s Agenda involves Analyzing the data using SQL on the SQL Server database.Tables are created in the database followed by data insertion into tables 
+and exploration, i.e., noticing relationships between tables, walking through the columns, and seeing comments. 
 
-Records are displayed in an ordered manner, handling NULL values, and selecting records based on patterns like Wildcard, Operators, etc. Then working on Data Manipulation commands(DML) for Data Analysis. Then taking Backup of the Table where migration is going on and use COMMIT and ROLLBACK commands.
+We keeps track of the following data fields:
+Records are displayed in an ordered manner, handling NULL values, and selecting records based on patterns like Wildcard, Operators, etc. Then working on Data Manipulation commands(DML) for Data Analysis. 
 Understanding different types of Joins(Inner join, Left outer join, Right outer join, Full outer join, Self join), different types of Operators(Minus, Union, Union all, Intersect).
 data analysis using Sub-query, Group-by clause and Exists clause. It also consists of using inline view and aggregate functions(Min, Max, Count, Avg) to perform better analysis on data.
 data analysis using WITH clause, the difference between COUNT(*) and COUNT(column_name), Categorization using the CASE statement, and various real-life case studies/problem statements.
