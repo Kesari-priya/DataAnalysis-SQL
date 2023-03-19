@@ -28,9 +28,6 @@ f. Map missing first name and last name with email id credentials.
 
 Dataset Analysis is defined as manipulating or processing unstructured data or raw data to draw valuable insights and conclusions that will help derive critical decisions that will add some business value. The dataset analysis process is followed by organizing the dataset, transforming the dataset, visualizing the dataset, and finally modeling the dataset to derive predictions for solving the business problems, making informed decisions, and effectively planning for the future.
 
-
-𝗢𝗿𝗮𝗰𝗹𝗲 𝗦𝗤𝗟 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: Oracle SQL Developer is a free IDE that makes it easy to develop and operate Oracle Database in both traditional and cloud environments. SQL Developer is a complete end-to-end development of PL/SQL jobs, worksheets for running queries and scripts,and comprehensive data modeling output.
-
-𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸:
+**Tech Tool:**
 SQL Programming language
 MS SQL Server
