@@ -29,5 +29,4 @@ Dataset Analysis is defined as manipulating or processing unstructured data or r
 𝗢𝗿𝗮𝗰𝗹𝗲 𝗦𝗤𝗟 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿: Oracle SQL Developer is a free IDE that makes it easy to develop and operate Oracle Database in both traditional and cloud environments. SQL Developer is a complete end-to-end development of PL/SQL jobs, worksheets for running queries and scripts,and comprehensive data modeling output.
 
 𝗧𝗲𝗰𝗵 𝘀𝘁𝗮𝗰𝗸:
-SQL Programming language
-MS SQL Server
+SQL Programming language, MS SQL Server
