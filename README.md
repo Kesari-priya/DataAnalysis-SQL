@@ -17,5 +17,5 @@ Records are displayed in an ordered manner, handling NULL values, and selecting 
 Dataset Analysis is defined as manipulating or processing unstructured data or raw data to draw valuable insights and conclusions that will help derive critical decisions that will add some business value. The dataset analysis process is followed by organizing the dataset, transforming the dataset, visualizing the dataset, and finally modeling the dataset to derive predictions for solving the business problems, making informed decisions, and effectively planning for the future.
 
 **Tech Tool:**
-SQL Programming language
+SQL Programming language,
 MS SQL Server
